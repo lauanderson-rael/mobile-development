@@ -6,6 +6,7 @@ Repositório com os exercícios e projetos feitos durante a disciplina de Desenv
 
 - **Alert:** Exemplo de app que exibe mensagens de alerta.  
 - **useEffect:** Aplicativo simples demonstrando o uso do hook useEffect.  
+- **Botões:** Uso de diferentes tipos de botões do react native.  
 - **Navegação:** Uso básico de navegação entre telas.  
 - **StatusBar:** Uso básico e personalização da StatusBar do react native..
 
